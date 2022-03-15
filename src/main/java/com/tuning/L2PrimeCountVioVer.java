@@ -3,9 +3,9 @@ package com.tuning;
 /**
  * @author wangzy
  * @date 2022/3/9
- * 统计素数个数
+ * 统计素数个数/暴力破解法
  **/
-public class L2PrimeCount {
+public class L2PrimeCountVioVer {
 
     /**
      * 输入给定的n，返回2-n之间素数个数
